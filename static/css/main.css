@@ -1,0 +1,36 @@
+.row {
+  margin-top: 50px;
+}
+
+th, td {
+  padding: 5px;
+}
+
+tfoot {
+  border-top: 1px solid black;
+}
+
+.card {
+  padding: 15px;
+  padding-top: 2px;
+}
+
+.card-img {
+  width: 100%;
+  display: block;
+  margin: 15px auto;
+}
+
+.card-title {
+  font-weight: bold;
+  font-size: 150%;
+}
+
+.card-subtitle {
+  font-style: italic;
+}
+
+.btn {
+  width:75%;
+  margin: 15px auto;
+}
