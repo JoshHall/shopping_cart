@@ -9,19 +9,19 @@
     {
       "id": 1,
       "title": "Grapes",
-      "price": 4.86,
+      "price": 6.99,
       "description": "This is a vine of grapes."
     },
     {
       "id": 2,
       "title": "Bananas",
-      "price": 4.86,
+      "price": 2.24,
       "description": "This is a buschel of bananas."
     },
     {
       "id": 3,
       "title": "T-Shirt",
-      "price": 4.86,
+      "price": 9.10,
       "description": "This is a funny shirt."
     },
     {
