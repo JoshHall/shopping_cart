@@ -4,37 +4,43 @@
       "id": 0,
       "title": "Soap",
       "price": 4.86,
-      "description": "This is a bar of soap."
+      "description": "This is a bar of soap.",
+      "quantity": 1
     },
     {
       "id": 1,
       "title": "Grapes",
       "price": 6.99,
-      "description": "This is a vine of grapes."
+      "description": "This is a vine of grapes.",
+      "quantity": 1
     },
     {
       "id": 2,
       "title": "Bananas",
       "price": 2.24,
-      "description": "This is a buschel of bananas."
+      "description": "This is a buschel of bananas.",
+      "quantity": 1
     },
     {
       "id": 3,
       "title": "T-Shirt",
       "price": 9.10,
-      "description": "This is a funny shirt."
+      "description": "This is a funny shirt.",
+      "quantity": 1
     },
     {
       "id": 4,
       "title": "Polo",
       "price": 4.86,
-      "description": "This is a nice shirt."
+      "description": "This is a nice shirt.",
+      "quantity": 1
     },
     {
       "id": 5,
       "title": "Baseball Hat",
       "price": 4.86,
-      "description": "This is a cap for your head."
+      "description": "This is a cap for your head.",
+      "quantity": 1
     }
   ]
 }
